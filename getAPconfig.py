@@ -11,7 +11,7 @@ The user running this script need to have ssh access to the AP with
 the users public key on the AP.
 
 Enable ssh:
-logon to web-interface, user: root, passw: spørg NU
+logon to web-interface, user: root, passw: spoerg NU
 Press: Services tab -> Enable SSHd in the Secure Shell section.
 Paste the public key from loki: /root/.ssh/id_rsa.pub 
 Save

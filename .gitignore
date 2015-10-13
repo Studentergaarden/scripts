@@ -5,4 +5,4 @@
 !.gitignore
 !getAPconfig.py
 !deleteUser.php
-!sql/*
+!sql/grp_cleanup.sql
