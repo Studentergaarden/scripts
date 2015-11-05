@@ -41,7 +41,7 @@ else:
         ip_raw = "172.16.2.%d"%(ip)
         ip_list.append(ip_raw)
     # add the 200 AP
-    #ip_list.insert(0,"172.16.2.200")
+    ip_list.insert(0,"172.16.2.200")
 
 # print(ip_list)
 

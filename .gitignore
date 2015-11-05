@@ -3,6 +3,9 @@
 
 # But not these files...
 !.gitignore
+!ap_config/
 !getAPconfig.py
 !deleteUser.php
 !sql/grp_cleanup.sql
+!mail2forum.php
+!PlancakeEmailParser.php
