@@ -5,6 +5,7 @@
 !.gitignore
 !ap_config/
 !getAPconfig.py
+!rebootAP.py
 !deleteUser.php
 !sql/grp_cleanup.sql
 !mail2forum.php
